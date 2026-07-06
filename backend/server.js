@@ -34,5 +34,3 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
     console.log(`Server started on port ${port}`);
 })
-
-//mongodb+srv://Bhoomika-Tomar:food-delivery@cluster0.gwdtf.mongodb.net/?
